@@ -1,1 +1,3 @@
 # CryptoClustering
+### Overview 
+This project utiizes Python and unsupervised learning techniques to analyze and cluster various cryptocurrencies. The raw data provides us with various timepoints and performances for each cryptocurrency, and using our data analytics skills we are able to organize and categorise each one into clusters. The main objective of this project is to determine if these cryptocurrencies are affected by short term price fluctuations using KMeans and Principle Component Analysis (PCA). This project is incredibly insightful as it elucidates the importance of data analytics in various sectors such as the finance market, and how we can use these techniques to dessiminate data and make informed decisions.
